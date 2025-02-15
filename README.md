@@ -14,3 +14,5 @@ CS 303 Assignment 1
 
 //Sample Output
 - The output will show
+
+<img width="1094" alt="Screenshot 2025-02-14 at 2 20 39 PM" src="https://github.com/user-attachments/assets/ea1a2745-71e7-4781-899b-1bbcb84c55d6" />
